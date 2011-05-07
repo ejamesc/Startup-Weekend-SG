@@ -1,3 +1,3 @@
-Generated with Schacon's Showoff.
+Generated with Scott Chacon's Showoff.
 
 https://github.com/schacon/showoff
